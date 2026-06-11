@@ -1,4 +1,4 @@
-oandapyV20==0.7.8
+oandapyV20==0.7.2
 python-telegram-bot==20.3
 yfinance==0.2.32
 pandas==2.1.3
