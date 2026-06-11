@@ -1,0 +1,502 @@
+{
+  "year": 2026,
+  "description": "Blocked Economic Events Calendar for SILVER DECK - High Impact Events",
+  "timezone": "ET",
+  "blocked_window_minutes": 60,
+  "events": [
+    {
+      "event_id": "nfp_jan",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-01-09",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "description": "Monthly employment report - Major impact on USD and risk sentiment",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_jan",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-01-13",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "description": "Inflation measure - Affects Fed policy expectations and USD strength",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "fomc_jan",
+      "name": "FOMC Decision & Powell Press Conference",
+      "date": "2026-01-28",
+      "time": "14:00",
+      "country": "US",
+      "impact": "CRITICAL",
+      "description": "Federal Reserve policy decision and rate guidance",
+      "block_before_minutes": 60,
+      "block_after_minutes": 60,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_feb",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-02-06",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_feb",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-02-11",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "fomc_mar",
+      "name": "FOMC Decision & Powell Press Conference",
+      "date": "2026-03-18",
+      "time": "14:00",
+      "country": "US",
+      "impact": "CRITICAL",
+      "block_before_minutes": 60,
+      "block_after_minutes": 60,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_mar",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-03-06",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_mar",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-03-11",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_apr",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-04-03",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_apr",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-04-10",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "fomc_apr",
+      "name": "FOMC Decision & Powell Press Conference",
+      "date": "2026-04-29",
+      "time": "14:00",
+      "country": "US",
+      "impact": "CRITICAL",
+      "block_before_minutes": 60,
+      "block_after_minutes": 60,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_may",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-05-08",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_may",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-05-12",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_jun",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-06-05",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_jun",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-06-10",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "fomc_jun",
+      "name": "FOMC Decision & Powell Press Conference",
+      "date": "2026-06-17",
+      "time": "14:00",
+      "country": "US",
+      "impact": "CRITICAL",
+      "block_before_minutes": 60,
+      "block_after_minutes": 60,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_jul",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-07-02",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_jul",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-07-14",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "fomc_jul",
+      "name": "FOMC Decision & Powell Press Conference",
+      "date": "2026-07-29",
+      "time": "14:00",
+      "country": "US",
+      "impact": "CRITICAL",
+      "block_before_minutes": 60,
+      "block_after_minutes": 60,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_aug",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-08-07",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_aug",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-08-12",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_sep",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-09-04",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_sep",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-09-11",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "fomc_sep",
+      "name": "FOMC Decision & Powell Press Conference",
+      "date": "2026-09-16",
+      "time": "14:00",
+      "country": "US",
+      "impact": "CRITICAL",
+      "block_before_minutes": 60,
+      "block_after_minutes": 60,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_oct",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-10-02",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_oct",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-10-14",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "fomc_oct",
+      "name": "FOMC Decision & Powell Press Conference",
+      "date": "2026-10-28",
+      "time": "14:00",
+      "country": "US",
+      "impact": "CRITICAL",
+      "block_before_minutes": 60,
+      "block_after_minutes": 60,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_nov",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-11-06",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_nov",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-11-10",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "nfp_dec",
+      "name": "Non-Farm Payrolls (NFP)",
+      "date": "2026-12-04",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "cpi_dec",
+      "name": "Consumer Price Index (CPI)",
+      "date": "2026-12-10",
+      "time": "08:30",
+      "country": "US",
+      "impact": "HIGH",
+      "block_before_minutes": 30,
+      "block_after_minutes": 30,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "fomc_dec",
+      "name": "FOMC Decision & Powell Press Conference",
+      "date": "2026-12-09",
+      "time": "14:00",
+      "country": "US",
+      "impact": "CRITICAL",
+      "block_before_minutes": 60,
+      "block_after_minutes": 60,
+      "typical_volatility_impact": "EXTREME"
+    },
+    {
+      "event_id": "ism_pmi_manufacturing",
+      "name": "ISM Manufacturing PMI",
+      "description": "Manufacturing activity indicator - Affects USD and risk sentiment",
+      "country": "US",
+      "impact": "MEDIUM",
+      "release_day": "First business day of month",
+      "time": "10:00",
+      "block_before_minutes": 20,
+      "block_after_minutes": 20
+    },
+    {
+      "event_id": "ism_pmi_services",
+      "name": "ISM Services PMI",
+      "description": "Services sector activity - Affects USD and risk sentiment",
+      "country": "US",
+      "impact": "MEDIUM",
+      "release_day": "Third business day of month",
+      "time": "10:00",
+      "block_before_minutes": 20,
+      "block_after_minutes": 20
+    },
+    {
+      "event_id": "jobless_claims",
+      "name": "Weekly Jobless Claims",
+      "description": "Weekly unemployment claims - Early labor market signal",
+      "country": "US",
+      "impact": "MEDIUM",
+      "release_day": "Every Thursday",
+      "time": "08:30",
+      "block_before_minutes": 15,
+      "block_after_minutes": 15
+    },
+    {
+      "event_id": "ppi_inflation",
+      "name": "Producer Price Index (PPI)",
+      "description": "Wholesale inflation measure - Precursor to consumer inflation",
+      "country": "US",
+      "impact": "MEDIUM",
+      "release_day": "Second or third week of month",
+      "time": "08:30",
+      "block_before_minutes": 20,
+      "block_after_minutes": 20
+    },
+    {
+      "event_id": "retail_sales",
+      "name": "Retail Sales",
+      "description": "Consumer spending measure - Affects USD and risk sentiment",
+      "country": "US",
+      "impact": "MEDIUM",
+      "release_day": "Second or third week of month",
+      "time": "08:30",
+      "block_before_minutes": 20,
+      "block_after_minutes": 20
+    },
+    {
+      "event_id": "housing_starts",
+      "name": "Housing Starts & Building Permits",
+      "description": "Real estate activity indicator",
+      "country": "US",
+      "impact": "LOW-MEDIUM",
+      "release_day": "Third week of month",
+      "time": "08:30",
+      "block_before_minutes": 15,
+      "block_after_minutes": 15
+    },
+    {
+      "event_id": "core_pce",
+      "name": "Core PCE Inflation",
+      "description": "Fed's preferred inflation measure - Affects rate expectations",
+      "country": "US",
+      "impact": "MEDIUM",
+      "release_day": "Same week as CPI",
+      "time": "08:30",
+      "block_before_minutes": 20,
+      "block_after_minutes": 20
+    },
+    {
+      "event_id": "durable_goods",
+      "name": "Durable Goods Orders",
+      "description": "Capital equipment orders - Business spending indicator",
+      "country": "US",
+      "impact": "LOW-MEDIUM",
+      "release_day": "Fourth week of month",
+      "time": "08:30",
+      "block_before_minutes": 15,
+      "block_after_minutes": 15
+    }
+  ],
+  "special_events": [
+    {
+      "event_id": "fomc_blackout",
+      "name": "FOMC Blackout Period",
+      "description": "Period before FOMC meetings when Fed speakers avoid public appearances",
+      "impact": "MEDIUM",
+      "note": "Typically starts 1 week before FOMC decision"
+    },
+    {
+      "event_id": "fed_speakers",
+      "name": "Major Fed Speakers",
+      "description": "Powell, other Fed governors, and regional Fed presidents",
+      "impact": "MEDIUM",
+      "note": "Check economic calendar daily for scheduled speeches"
+    },
+    {
+      "event_id": "ecb_meetings",
+      "name": "European Central Bank Decisions",
+      "description": "ECB policy decisions affect EUR/USD and commodities via EUR",
+      "country": "EU",
+      "impact": "MEDIUM",
+      "note": "Typically 6 meetings per year at 13:45 CET"
+    },
+    {
+      "event_id": "boe_meetings",
+      "name": "Bank of England Decisions",
+      "description": "BOE policy decisions affect GBP/USD and cross rates",
+      "country": "UK",
+      "impact": "MEDIUM",
+      "note": "Typically 8 meetings per year at 12:00 GMT"
+    },
+    {
+      "event_id": "boj_meetings",
+      "name": "Bank of Japan Decisions",
+      "description": "BOJ policy decisions affect JPY and risk sentiment",
+      "country": "Japan",
+      "impact": "MEDIUM",
+      "note": "Typically 8 meetings per year at 17:30 JST (same day in US)"
+    }
+  ],
+  "notes": {
+    "recommendation": "WAIT during all HIGH and CRITICAL impact events. AVOID trading 30-60 minutes before and after scheduled releases.",
+    "data_quality": "This calendar is for PAPER TRADING EDUCATION ONLY. Verify all dates and times with official sources.",
+    "sources": [
+      "Federal Reserve official calendar",
+      "Bureau of Labor Statistics",
+      "Census Bureau",
+      "ISM official releases",
+      "Investing.com economic calendar"
+    ]
+  }
+}
